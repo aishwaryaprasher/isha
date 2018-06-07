@@ -1,0 +1,15 @@
+l=[1,2,3,4]
+l.append(7)
+print(l)
+l=[1,6,2,7]
+l.sort()
+print(l)
+l=["h","w","e","d"]
+l.sort()
+print(l)
+l=["apple","mango","apple","cherry"]
+print(l.count("apple"))
+a=1
+b="hi"
+print(b,str(a))
+print(str(a)+b)
