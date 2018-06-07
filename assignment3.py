@@ -40,9 +40,3 @@ print(l4)
 #ques6
 y=l2.pop()
 print(y)
-
-#extraques
-for(i=0;i<l4.len;i++)
-    if(l4[i]%2==0)
-x=0;
-x++
