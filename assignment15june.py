@@ -76,7 +76,8 @@ class Expenditure:
 
         print("Expenditure %d"%(expen))
 
-        print("Savings %d"%(save))
+        print("Saving"
+              "s %d"%(save))
 
         print("")
 
