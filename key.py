@@ -1,0 +1,4 @@
+Consumer_Key="SohQNR9IKHpzY4PzYSbpgMqh5"
+Consumer_Secret="6pwLVxy3Cd2dUbLCVNC6VT3GN0DhgaAQyQpt4PaHY2eiH3rMKg"
+Access_Token="1008952472134488064-uCmr07dXXyT5ibPXzDNoNnbLIlb8Ji"
+AccessToken_Secret="m2jq2lJHcRcKG86RNLm3hQTOCoQhBNH5NeC9lujApoLFT"
