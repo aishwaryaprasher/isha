@@ -16,7 +16,7 @@ try:
 
 except IndexError:
     print("limit exceed")
-
+0
 #question3
 #A12_Q3
 #output:"AN EXCEPTION"
@@ -26,11 +26,10 @@ except IndexError:
 #"a/b resut in 0"
 
 #question5
-try:
-    import qwerty
-    print("lalalala")
+   import qwerty:
+     print("lalalala")
 except ImportError:
-    print("import error")
+     print("import error")
 
 try:
     a=int(input("enter no:"))
