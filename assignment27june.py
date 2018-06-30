@@ -46,4 +46,20 @@ kite.geometry("100x100")
 Label(kite,text='input').grid(row=0)
 e1=Entry(kite)
 e1.grid(row=0,column=1)
-mainloop()
+
+
+
+
+from tkinter import *
+ss = Frame()
+ss.pack()
+ent = Entry(ss)
+ent.pack(side=TOP)
+ent.insert(0,"input to be added")
+ent.focus()
+
+def display():
+    print("input:",ent.get())
+zz= Button(ss,text="click",command=display)
+zz.pack(side=LEFT,expand=YES,fill=Y)
+zz.mainloop()
