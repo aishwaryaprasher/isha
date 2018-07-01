@@ -31,5 +31,12 @@ print("Sum of elements is: "+str(d))
 
 #question4
 import numpy as np
-a=np.random.randint(10, size=(10, 1))
-print(a)
+x=np.random.randint(10, size=(10, 1))
+print(x)
+i=0
+l=[]
+for i in range(0,10):
+    ans=1/(1+math.exp(-(x[i,0])))
+    l.append(ans)
+print("f(x)")
+print(l)
